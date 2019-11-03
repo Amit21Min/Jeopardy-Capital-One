@@ -1,0 +1,19 @@
+.info {
+    padding: 30px;
+    margin: 20px;
+    background-color: blue;
+}
+
+td {
+    padding: 5px;
+    text-align: left;
+    word-wrap: break-word;         
+    overflow-wrap: break-word; 
+}
+
+table{
+    border-collapse: collapse;
+    table-layout: fixed;
+    border-spacing: 1500px;
+    margin: 25px;
+}

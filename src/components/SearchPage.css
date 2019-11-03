@@ -1,0 +1,17 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #AFEEEE;
+}
+
+.filters {
+    margin-left: left;
+    display: inline-block;
+
+}
+
+label {
+    display: inline-block;
+    width: 125px;
+}

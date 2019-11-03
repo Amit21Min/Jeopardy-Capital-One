@@ -1,0 +1,20 @@
+.header {
+    padding: 60px;
+    text-align: center;
+    background: #AFEEEE;
+    font-size: 25px;
+}
+
+
+.welcome {
+    margin: 10px 40px;
+    padding: 30px;
+    max-width: 1000px;
+    background-color: #AFEEEE;
+    text-align: left;
+    width: 50%;
+}
+
+/* .body {
+    background-color: #AFEEEE;
+} */
