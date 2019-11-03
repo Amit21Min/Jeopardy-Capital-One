@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.46ae35bc.chunk.css",
-    "main.js": "/static/js/main.10c36d09.chunk.js",
-    "main.js.map": "/static/js/main.10c36d09.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.95ae4bf6.js",
-    "runtime-main.js.map": "/static/js/runtime-main.95ae4bf6.js.map",
-    "static/js/2.31047b91.chunk.js": "/static/js/2.31047b91.chunk.js",
-    "static/js/2.31047b91.chunk.js.map": "/static/js/2.31047b91.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.c6f989ee227fd750db683978bba5caea.js": "/precache-manifest.c6f989ee227fd750db683978bba5caea.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.46ae35bc.chunk.css.map": "/static/css/main.46ae35bc.chunk.css.map"
+    "main.css": "/JeopardyQuestionSearch/static/css/main.46ae35bc.chunk.css",
+    "main.js": "/JeopardyQuestionSearch/static/js/main.56b64414.chunk.js",
+    "main.js.map": "/JeopardyQuestionSearch/static/js/main.56b64414.chunk.js.map",
+    "runtime-main.js": "/JeopardyQuestionSearch/static/js/runtime-main.e4abd4e9.js",
+    "runtime-main.js.map": "/JeopardyQuestionSearch/static/js/runtime-main.e4abd4e9.js.map",
+    "static/js/2.31047b91.chunk.js": "/JeopardyQuestionSearch/static/js/2.31047b91.chunk.js",
+    "static/js/2.31047b91.chunk.js.map": "/JeopardyQuestionSearch/static/js/2.31047b91.chunk.js.map",
+    "index.html": "/JeopardyQuestionSearch/index.html",
+    "precache-manifest.f947cfc4b85cff0b1bb834f1123335b9.js": "/JeopardyQuestionSearch/precache-manifest.f947cfc4b85cff0b1bb834f1123335b9.js",
+    "service-worker.js": "/JeopardyQuestionSearch/service-worker.js",
+    "static/css/main.46ae35bc.chunk.css.map": "/JeopardyQuestionSearch/static/css/main.46ae35bc.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.95ae4bf6.js",
+    "static/js/runtime-main.e4abd4e9.js",
     "static/js/2.31047b91.chunk.js",
     "static/css/main.46ae35bc.chunk.css",
-    "static/js/main.10c36d09.chunk.js"
+    "static/js/main.56b64414.chunk.js"
   ]
 }
