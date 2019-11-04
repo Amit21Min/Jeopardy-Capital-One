@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "71fa1c9219a70ab66c7b64003d2f1258",
+    "revision": "a6d6d3ef0f853de6aa74b15de92a0467",
     "url": "/JeopardyQuestionSearch/index.html"
   },
   {
-    "revision": "c6d80ed73aa97658f30a",
+    "revision": "e392a1da41826301314c",
     "url": "/JeopardyQuestionSearch/static/css/main.1734912a.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/JeopardyQuestionSearch/static/js/2.31047b91.chunk.js"
   },
   {
-    "revision": "c6d80ed73aa97658f30a",
-    "url": "/JeopardyQuestionSearch/static/js/main.9a6157b1.chunk.js"
+    "revision": "e392a1da41826301314c",
+    "url": "/JeopardyQuestionSearch/static/js/main.2a627634.chunk.js"
   },
   {
     "revision": "9839b68beb02fc1873ed",
